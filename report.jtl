@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1001" it="0" lt="998" ct="572" ts="1731559485066" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-1" dt="text" by="1121" sby="230" ng="1" na="1">
+  <java.net.URL>https://reqres.in/api/users</java.net.URL>
+</httpSample>
+<httpSample t="495" it="0" lt="495" ct="73" ts="1731559490963" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-2" dt="text" by="1118" sby="230" ng="1" na="1">
+  <java.net.URL>https://reqres.in/api/users</java.net.URL>
+</httpSample>
+<httpSample t="497" it="0" lt="497" ct="77" ts="1731559496959" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-3" dt="text" by="1118" sby="230" ng="1" na="1">
+  <java.net.URL>https://reqres.in/api/users</java.net.URL>
+</httpSample>
+<httpSample t="486" it="0" lt="486" ct="71" ts="1731559502958" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-4" dt="text" by="1122" sby="230" ng="1" na="1">
+  <java.net.URL>https://reqres.in/api/users</java.net.URL>
+</httpSample>
+<httpSample t="507" it="0" lt="506" ct="79" ts="1731559508958" s="true" lb="HTTP Request" rc="201" rm="Created" tn="Thread Group 1-5" dt="text" by="1117" sby="230" ng="1" na="1">
+  <java.net.URL>https://reqres.in/api/users</java.net.URL>
+</httpSample>
+
+</testResults>
